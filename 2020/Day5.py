@@ -1,4 +1,3 @@
-import math
 file = open('C:\\py\\adventofcode2020\\day5Input.txt', 'r')
 codes = file.readlines()
 file.close()
